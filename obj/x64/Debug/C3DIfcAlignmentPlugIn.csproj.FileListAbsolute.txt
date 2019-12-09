@@ -1,0 +1,3 @@
+C:\Users\Erwin Meulman\Downloads\C3DIfcAlignmentPlugIn\C3DIfcAlignmentPlugIn\obj\x64\Debug\C3DIfcAlignmentPlugIn.csprojAssemblyReference.cache
+C:\Users\Erwin Meulman\Downloads\C3DIfcAlignmentPlugIn\C3DIfcAlignmentPlugIn\obj\x64\Debug\C3DIfcAlignmentPlugIn.g.resources
+C:\Users\Erwin Meulman\Downloads\C3DIfcAlignmentPlugIn\C3DIfcAlignmentPlugIn\obj\x64\Debug\C3DIfcAlignmentPlugIn.csproj.CoreCompileInputs.cache
